@@ -2,3 +2,5 @@
 /optimized
 /kjvbible_x100.txt
 /tempfile
+*.o
+pg10.txt
